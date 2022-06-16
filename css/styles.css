@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  width: 140px;
+  height: 140px;
+  border: solid 10px;
+  padding: 20px;
+}
+
+.middle-container {
+  height: 160px;
+  width: 160px;
+  border: solid 20px;
+  margin-left: 200px;
+  background-color: aquamarine;
+}
+
+.bottom-container {
+  height: 180px;
+  width: 180px;
+  border: solid 10px;
+  margin-left: 400px;
+  background-color: burlywood;
+}
